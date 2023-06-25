@@ -8,7 +8,7 @@ I'm a senior software engineer at [DreamOnline Limited](https://dreamonline.com.
 - 💞️ I’m looking to collaborate on open-source projects
 - 💬 Ask me about Android and Kotlin
 
-<a href="https://github.com/skydoves"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=imranhsn&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/imranhsn"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=imranhsn&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 
 <!---
 imranhsn/imranhsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
